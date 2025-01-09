@@ -1,0 +1,165 @@
+body{
+    padding: 20px;
+    padding-bottom: 500px;
+}
+p{
+    color: green;
+    font-size: 30px;
+}
+/* classes e ids */
+.meu-paragrafo{
+    background-color: black;
+    color: red;
+}
+#titulo-principal{
+    background-color: yellow;
+    color: black;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* todos os elementos, listas */
+*{
+    font-family: arial;
+}
+p,h1{border-bottom: 1px solid red;}
+/* cores */
+.nome-da-cor{
+    color: pink;
+}
+.hexa{
+    color: #295faa;
+    background-color: #323232;
+}
+.rgb{
+    color: rgb(rgb(92, 6, 6), rgb(56, 211, 56), rgb(19, 19, 92));
+}
+/* fontes */
+.serifada{
+    font-family: georgia;
+}
+.sem-serifada{
+    font-family: helvetica;
+}
+.mono-espacada{
+    font-family: 'Courier New', Courier, monospace;
+}
+/* size e weight */
+.tamnho-fonte-grande{
+    font-size: 64px;
+}
+.tamanho-fonte-pequeno{
+    font-size: 12px;
+}
+.peso-fonte{
+    font-weight: 700;
+}
+.texto-italico{
+    font-style: italic;
+}
+/* box model */
+.box-model{
+    width: 200px;
+    height: 100px;
+    border: 1px solid blue;
+    padding: 20px 10px 5px;
+    margin: 20px;
+}
+/* propiredades de texto */
+.alinhamento{
+    text-align: center;
+}
+.transform-minuscula{
+    text-transform: lowercase;
+}
+.transform-maiuscula{
+    text-transform: uppercase;
+}
+/* espaçamento em linhas e letras */
+.espaçamento-de-texto{
+    width: 150px;
+    line-height: 40px;
+    letter-spacing: 8px;
+}
+/* links */
+.decoration{
+    text-decoration: none;
+}
+.visitado:visited{
+    color: orange;
+}
+.estilo-hover:hover{
+    background-color: aqua;
+}
+/* link em buttom */
+.btn{
+    background-color: greenyellow;
+    border: 3px solid gold;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    display: block;
+    width: 120px;
+    padding: 12px 7px;
+    text-align: center;
+    margin: 20px;
+}
+.bnt:hover{
+    background-color: gold;
+}
+/* listas */
+.sem-estilo{
+    list-style: none;
+}
+/* display */
+.inline{
+    width: 50px;
+    height: 50px;
+    background-color: teal;
+    margin: 5px;
+    display: inline-block;
+}
+.bloco{
+    display: block;
+}
+.hidden{
+    display: none;
+}
+/* position fixed */
+.elemento-fixo{
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    padding: 15px;
+    text-align: center;
+    background-color: aqua;
+    border-bottom: 2px solid #295faa;
+    color: #fff;
+}
+/* first child */
+/* pseudo seletor / pseudo class */
+.primeiro-seletor p:first-child{
+    color: purple;
+    font-weight: bold;
+}
+/* pseudo elemento */
+.primeira-letra::first-letter{
+    font-size: 40px;
+    color: blue;
+    background-color: red;
+    padding: 4px;
+}
+/* especifidade */
+h2{
+    color: red;
+}  
+.titulo{
+    color: green;
+}
+#meu-titulo-preferido{
+    color: blueviolet;
+}
+/* important */
+h2{
+    color: gray !important;
+}

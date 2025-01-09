@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Listas</title>
+</head>
+<body>
+    <h1>Trabalhando com Listas</h1>
+    <h2>Listas Ordenadas:</h2>
+    <ol type="1" start="1"> <!--uma <ol> representa uma lista ordenada--> <!--dentro das <ol> é possível utilizar estilo, os mais comuns são type e start, sendo o type selecionando o tipo de ordenação seja por número, letra ou Algarismo Romano e start selecionando em que ordem a lista irá começar, exemplo: 1,2,3,4...-->
+        <li>acordar</li> <!--uma <li> representa uma tag que cria uma lista-->
+        <li>Ligar pra Min
+        <li>Tomar Café</li>
+        <li>Escovar os Dentes
+            <!--<li> é uma tag que não necessita de fechamento-->
+    </ol>
+    <h2>Lista Não Ordenada:</h2>
+    <ul type="square"> <!--uma <ul> representa uma lista não ordenada--> <!--existem tipos que podem ser utilizados nesta tag, como o disc, circle e square.-->
+        <li>Pão</li>
+        <li>Leite</li>
+        <li>Tomate</li>
+        <li>Manteiga</li>
+        <li>Arroz</li>
+        <li>Feijão</li>
+    </ul>
+    <h2>minhas linguagens favoritas</h2>
+    <ol>
+        <li>antigas</li>
+        <ol type="a">
+            <li>clipper</li>
+            <li>visual basic</li>
+            <li>fortran</li>
+            <li>delphi</li>
+        </ol>
+        <li>novas</li>
+        <ol type="a" start="5"> <!--independente da fonte utilizada no type o start sempre será numerico. exemplo type com letra usando o start 2 a lsita começaria da segunda letra do alfabeto o b-->
+            <li>php</li>
+            <li>python</li>
+            <li>javascript</li>
+            <li>kotlin</li>
+        </ol>
+    </ol>
+    <h2>lista de definiçao</h2><!--algo semlhante a um dicionario-->
+    <dt> <!-- termo-->
+        <dt>html</dt>
+            <dd>Lingugem de marcaçao para a criação do conteúdo de um site.</dd> <!--descriçao-->
+        <dt>css</dt>
+            <dd>linguagem de marcaçao parfa a criaçao do design de um site</dd>
+        <dt>javascript</dt>
+            <dd>linguagem de programaçao para a criaçao de interatividade do site</dd> <!--o google costuma priorizar o na busca de uma definiçao de algo sites que utilizam <dt> e <dd>-->
+    </dt>
+</body>
+</html>

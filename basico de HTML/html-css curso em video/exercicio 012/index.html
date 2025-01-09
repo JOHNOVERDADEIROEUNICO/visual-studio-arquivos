@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mídias em HTML5</title>
+</head>
+<body>
+    <h1>Imagem Dinamica</h1>
+    <p>Tente abrir esse site em vários dispositivos diferentes ou simplesmente aumente ou diminua o tamanho do seu navegador</p>
+    
+    <!--basicamente neste codigo abaixo nos colocamos 3 tipos diferentes de imagem no mesmo lugar, onde dependendo do tamnho da tela o navegador ira carregar a imagem em um tamnho diferente.-->
+    <!--existe uma sequncia obrigatoria, como esta aqui abaixo, se voce colocar o medio, como exemplo, acima do pequeno, ja buga e nao carrega.-->
+    <picture>
+        <source media="(max-width: 750px)" srcset="imagens/FormatoPequeno.png" type="image/png">
+        <source media="(max-width: 1050px)" srcset="imagens/FormatoMedio.png" type="image/png">
+        <img src="imagens/FormatoGrande.png" alt="Imagem flexivel">
+    </picture>
+
+    <h1>Reproduzindo Áudio</h1>
+    <p>Vamos tentar reporduzir áudios usando o html5</p>
+    <!--alguns navegadores nao possuem compatibilidade com certos tipos de arquivos de áudio e certos comandos da tag <audio>-->
+    <audio preload="metadata" controls> <!--comandos do preload: auto: o auto ele faz com que o site so termine de carregar quando o audio for 100% carregado, ruim quando for um audio grande, o metadata: carrega algumas informaçoes antes de voce apertar o play e o none: carrega somente quando voce aperta play no audio.-->
+        <!--o navegador ira carregar em ordem decrescente os arquivos, ou seja começara do mp4 ate o wav, isso claro quando houver mais de um tipo de arquivo, aqui é somente um exemplo-->
+        <source src="midia/The Moon Drops - Nathan Moore.mp3" type="audio/mpeg">
+        <source src="midia/The Moon Drops - Nathan Moore.ogg" type="audio/ogg">
+        <source src="midia/The Moon Drops - Nathan Moore.wav" type="audio/wav">
+        <!--tipos de arquivos de audio MP3,OGG,WAV-->
+        <!--evite arquivos wav, pois, sao muito pesados para um site, por mais que a qualidade dele seja melhor, alias arquivos de alta qualidade sao para dowloand e nao para navegaçao-->
+        <!--para caso nao rodar existe essa opçao que colocamos no paragrafo abaixo,OBS: a opçao de dowload só aparecerá se o navegador nao for compativel com as opçoes acima, lembrando que isto tudo está na tag <audio>. 👇👇👇-->
+            <p>Infelizmente seu navegador não consegue reproduzir áudio. <a href="midia/The Moon Drops - Nathan Moore.mp3">clique aqui para baixar o arquivo mp3</a></p>
+    </audio>
+</body>
+</html>
