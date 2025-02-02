@@ -1,0 +1,5 @@
+C:\Users\JONHP\OneDrive\Área de Trabalho\visual studio arquivos\testec\obj\Debug\net9.0\testec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JONHP\OneDrive\Área de Trabalho\visual studio arquivos\testec\obj\Debug\net9.0\testec.AssemblyInfoInputs.cache
+C:\Users\JONHP\OneDrive\Área de Trabalho\visual studio arquivos\testec\obj\Debug\net9.0\testec.AssemblyInfo.cs
+C:\Users\JONHP\OneDrive\Área de Trabalho\visual studio arquivos\testec\obj\Debug\net9.0\testec.csproj.CoreCompileInputs.cache
+C:\Users\JONHP\OneDrive\Área de Trabalho\visual studio arquivos\testec\obj\Debug\net9.0\testec.sourcelink.json

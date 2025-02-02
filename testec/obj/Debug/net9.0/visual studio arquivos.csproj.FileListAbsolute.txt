@@ -1,0 +1,15 @@
+C:\Users\JONHP\OneDrive\Área de Trabalho\visual studio arquivos\obj\Debug\net9.0\visual studio arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JONHP\OneDrive\Área de Trabalho\visual studio arquivos\obj\Debug\net9.0\visual studio arquivos.AssemblyInfoInputs.cache
+C:\Users\JONHP\OneDrive\Área de Trabalho\visual studio arquivos\obj\Debug\net9.0\visual studio arquivos.AssemblyInfo.cs
+C:\Users\JONHP\OneDrive\Área de Trabalho\visual studio arquivos\obj\Debug\net9.0\visual studio arquivos.csproj.CoreCompileInputs.cache
+C:\Users\JONHP\OneDrive\Área de Trabalho\visual studio arquivos\obj\Debug\net9.0\visual studio arquivos.sourcelink.json
+C:\Users\JONHP\OneDrive\Área de Trabalho\visual studio arquivos\bin\Debug\net9.0\visual studio arquivos.exe
+C:\Users\JONHP\OneDrive\Área de Trabalho\visual studio arquivos\bin\Debug\net9.0\visual studio arquivos.deps.json
+C:\Users\JONHP\OneDrive\Área de Trabalho\visual studio arquivos\bin\Debug\net9.0\visual studio arquivos.runtimeconfig.json
+C:\Users\JONHP\OneDrive\Área de Trabalho\visual studio arquivos\bin\Debug\net9.0\visual studio arquivos.dll
+C:\Users\JONHP\OneDrive\Área de Trabalho\visual studio arquivos\bin\Debug\net9.0\visual studio arquivos.pdb
+C:\Users\JONHP\OneDrive\Área de Trabalho\visual studio arquivos\obj\Debug\net9.0\visual studio arquivos.dll
+C:\Users\JONHP\OneDrive\Área de Trabalho\visual studio arquivos\obj\Debug\net9.0\refint\visual studio arquivos.dll
+C:\Users\JONHP\OneDrive\Área de Trabalho\visual studio arquivos\obj\Debug\net9.0\visual studio arquivos.pdb
+C:\Users\JONHP\OneDrive\Área de Trabalho\visual studio arquivos\obj\Debug\net9.0\visual studio arquivos.genruntimeconfig.cache
+C:\Users\JONHP\OneDrive\Área de Trabalho\visual studio arquivos\obj\Debug\net9.0\ref\visual studio arquivos.dll

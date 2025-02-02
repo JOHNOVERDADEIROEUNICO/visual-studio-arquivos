@@ -1,0 +1,3 @@
+ Aprendi hoje que o c# nao aceita que dois arquivos com mesma linha de código fiquem na mesma pasta de projeto, logo esse aqui fica como exemplo de como deve ser a estrutura de um projeto executavel em c#, os outros ficaram somente com as linhas de código porém sem a possibilidade de serem executados.
+ 
+    Para mais informações pag.26 do caderno de anotações do C#

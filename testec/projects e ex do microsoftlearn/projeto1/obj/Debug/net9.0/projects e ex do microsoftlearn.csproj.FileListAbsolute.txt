@@ -1,0 +1,15 @@
+C:\Users\JONHP\OneDrive\Área de Trabalho\visual studio arquivos\testec\projects e ex do microsoftlearn\projeto1\obj\Debug\net9.0\projects e ex do microsoftlearn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JONHP\OneDrive\Área de Trabalho\visual studio arquivos\testec\projects e ex do microsoftlearn\projeto1\obj\Debug\net9.0\projects e ex do microsoftlearn.AssemblyInfoInputs.cache
+C:\Users\JONHP\OneDrive\Área de Trabalho\visual studio arquivos\testec\projects e ex do microsoftlearn\projeto1\obj\Debug\net9.0\projects e ex do microsoftlearn.AssemblyInfo.cs
+C:\Users\JONHP\OneDrive\Área de Trabalho\visual studio arquivos\testec\projects e ex do microsoftlearn\projeto1\obj\Debug\net9.0\projects e ex do microsoftlearn.csproj.CoreCompileInputs.cache
+C:\Users\JONHP\OneDrive\Área de Trabalho\visual studio arquivos\testec\projects e ex do microsoftlearn\projeto1\obj\Debug\net9.0\projects e ex do microsoftlearn.sourcelink.json
+C:\Users\JONHP\OneDrive\Área de Trabalho\visual studio arquivos\testec\projects e ex do microsoftlearn\projeto1\bin\Debug\net9.0\projects e ex do microsoftlearn.exe
+C:\Users\JONHP\OneDrive\Área de Trabalho\visual studio arquivos\testec\projects e ex do microsoftlearn\projeto1\bin\Debug\net9.0\projects e ex do microsoftlearn.deps.json
+C:\Users\JONHP\OneDrive\Área de Trabalho\visual studio arquivos\testec\projects e ex do microsoftlearn\projeto1\bin\Debug\net9.0\projects e ex do microsoftlearn.runtimeconfig.json
+C:\Users\JONHP\OneDrive\Área de Trabalho\visual studio arquivos\testec\projects e ex do microsoftlearn\projeto1\bin\Debug\net9.0\projects e ex do microsoftlearn.dll
+C:\Users\JONHP\OneDrive\Área de Trabalho\visual studio arquivos\testec\projects e ex do microsoftlearn\projeto1\bin\Debug\net9.0\projects e ex do microsoftlearn.pdb
+C:\Users\JONHP\OneDrive\Área de Trabalho\visual studio arquivos\testec\projects e ex do microsoftlearn\projeto1\obj\Debug\net9.0\projects e ex do microsoftlearn.dll
+C:\Users\JONHP\OneDrive\Área de Trabalho\visual studio arquivos\testec\projects e ex do microsoftlearn\projeto1\obj\Debug\net9.0\refint\projects e ex do microsoftlearn.dll
+C:\Users\JONHP\OneDrive\Área de Trabalho\visual studio arquivos\testec\projects e ex do microsoftlearn\projeto1\obj\Debug\net9.0\projects e ex do microsoftlearn.pdb
+C:\Users\JONHP\OneDrive\Área de Trabalho\visual studio arquivos\testec\projects e ex do microsoftlearn\projeto1\obj\Debug\net9.0\projects e ex do microsoftlearn.genruntimeconfig.cache
+C:\Users\JONHP\OneDrive\Área de Trabalho\visual studio arquivos\testec\projects e ex do microsoftlearn\projeto1\obj\Debug\net9.0\ref\projects e ex do microsoftlearn.dll
