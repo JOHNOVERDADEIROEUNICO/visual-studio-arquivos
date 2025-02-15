@@ -1,4 +1,4 @@
-﻿int[,,] matriz3D = new int[3, 3, 3];
+int[,,] matriz3D = new int[3, 3, 3];
 
 for (int i = 0; i < 3; i++)
 {
