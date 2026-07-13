@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "qVj3N0hMlDQ=",
+  "dgSpecHash": "CVMKkGsZ1ug=",
   "success": true,
-  "projectFilePath": "C:\\Users\\JONHP\\OneDrive\\Área de Trabalho\\visual studio arquivos\\testec\\ex01\\ex01.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\JONHP\\OneDrive\\Documentos\\GitHub\\visual-studio-arquivos\\testec\\ex01\\ex01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JONHP\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.17\\microsoft.netcore.app.ref.9.0.17.nupkg.sha512",
+    "C:\\Users\\JONHP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.17\\microsoft.windowsdesktop.app.ref.9.0.17.nupkg.sha512",
+    "C:\\Users\\JONHP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.17\\microsoft.aspnetcore.app.ref.9.0.17.nupkg.sha512",
+    "C:\\Users\\JONHP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.17\\microsoft.netcore.app.host.win-x64.9.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
