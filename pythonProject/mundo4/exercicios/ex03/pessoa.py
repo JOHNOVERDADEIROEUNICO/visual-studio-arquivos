@@ -38,28 +38,6 @@ class Aluno(Pessoa): #herança!
         self.passarDeAno = False
         self.cReprovado += 1 
         return print(f"O aluno {self.nome} passou de ano? {self.passarDeAno}, e completou {self.idade} ano(s)")
-    
-p = Pessoa("John", 0)
-
-p.CPF()
-p.fazerAniversario()
-p.CPF()
-p.fazerAniversario()
-p.CPF()
-p.fazerAniversario()
-p.CPF()
-
-a = Aluno("John", 3)
-
-a.CPF()
-a.passouAno()
-a.CPF()
-a.passouAno()
-a.CPF()
-a.passouAno()
-a.CPF()
-a.reprobouAno()
-a.CPF()
 
 
 
